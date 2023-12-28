@@ -1,0 +1,11 @@
+﻿NCharacter = {
+	# values for randomly generated characters they'll be set to BASE + random within SPAN
+	RANDOM_CHARACTER_MIN_FERTILITY = 0.3	# default '0.5'
+	RANDOM_CHARACTER_MAX_FERTILITY = 0.4	# default '0.6'
+	BASE_FERTILITY = 0.4	# default '0.5'
+}
+
+NChildbirth = {
+	NON_RULER_FERTILITY_MULTIPLIER = 0.6	# If neither parent is a ruler, resulting fertility gets multiplied by this
+	# default '0.85'
+}
