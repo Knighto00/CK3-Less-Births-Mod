@@ -20,6 +20,6 @@ Mod B
 ...  
 __*Less_Births*__
 
-## Supported game version: 1.11.*  
+## Supported game version: 1.12.*  
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png)](https://ko-fi.com/G2G2SEZDE)  
 [![ko-fi-qrcode](https://raw.githubusercontent.com/Knighto00/Stylus_Nozomi-Dark-Customizable-Theme/main/img/qrcode-ko-fi.png)](https://ko-fi.com/G2G2SEZDE)
